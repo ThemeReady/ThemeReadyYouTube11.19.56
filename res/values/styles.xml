@@ -112,108 +112,108 @@
     </style>
     <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance">
         <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
         <item name="android:textColorHighlight">?android:textColorHighlight</item>
         <item name="android:textColorHint">?android:textColorHint</item>
         <item name="android:textColorLink">?android:textColorLink</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_body_1_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Body2" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_body_2_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Button" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_button_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
         <item name="textAllCaps">true</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Caption" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_caption_material</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Display1" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_display_1_material</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Display2" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_display_2_material</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Display3" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_display_3_material</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Display4" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_display_4_material</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Headline" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_headline_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Inverse" parent="@style/Base.TextAppearance.AppCompat">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Large" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_large_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@style/Base.TextAppearance.AppCompat.Large">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@style/TextAppearance.AppCompat.Menu" />
     <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@style/TextAppearance.AppCompat.Menu" />
     <style name="Base.TextAppearance.AppCompat.Medium" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_medium_material</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@style/Base.TextAppearance.AppCompat.Medium">
-        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+        <item name="android:textColor">@color/text_color_secondary_default_dark</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Menu" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_menu_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.SearchResult" parent="">
         <item name="android:textStyle">normal</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
         <item name="android:textColorHint">?android:textColorHint</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle" parent="@style/Base.TextAppearance.AppCompat.SearchResult">
         <item name="android:textSize">14.0sp</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.SearchResult.Title" parent="@style/Base.TextAppearance.AppCompat.SearchResult">
         <item name="android:textSize">18.0sp</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Small" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_small_material</item>
-        <item name="android:textColor">?android:textColorTertiary</item>
+        <item name="android:textColor">@color/custom_text_color</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@style/Base.TextAppearance.AppCompat.Small">
-        <item name="android:textColor">?android:textColorTertiaryInverse</item>
+        <item name="android:textColor">@color/custom_text_color</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Subhead" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_subhead_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Subhead.Inverse" parent="@style/Base.TextAppearance.AppCompat.Subhead">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Title" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_title_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Title.Inverse" parent="@style/Base.TextAppearance.AppCompat.Title">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@style/TextAppearance.AppCompat.Button">
@@ -222,25 +222,25 @@
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@style/TextAppearance.AppCompat.Subhead">
         <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@style/TextAppearance.AppCompat.Subhead.Inverse">
         <item name="android:textSize">@dimen/abc_text_size_subtitle_material_toolbar</item>
-        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+        <item name="android:textColor">@color/text_color_secondary_default_dark</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@style/TextAppearance.AppCompat.Title">
         <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@style/TextAppearance.AppCompat.Title.Inverse">
         <item name="android:textSize">@dimen/abc_text_size_title_material_toolbar</item>
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle" />
     <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" />
     <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="@style/TextAppearance.AppCompat.Button" />
     <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@style/TextAppearance.AppCompat.Button">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
     </style>
     <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="@android:style/TextAppearance.Small">
         <item name="android:textColor">?android:textColorPrimaryDisableOnly</item>
@@ -425,7 +425,7 @@
         <item name="actionBarDivider">?dividerVertical</item>
         <item name="actionBarItemBackground">?selectableItemBackgroundBorderless</item>
         <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
-        <item name="actionMenuTextColor">?android:textColorPrimaryDisableOnly</item>
+        <item name="actionMenuTextColor">@color/primary_font</item>
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
@@ -457,7 +457,7 @@
         <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
         <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
         <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
-        <item name="editTextColor">?android:textColorPrimary</item>
+        <item name="editTextColor">@color/primary_font</item>
         <item name="editTextBackground">@drawable/abc_edit_text_material</item>
         <item name="imageButtonStyle">@style/Widget.AppCompat.ImageButton</item>
         <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
@@ -554,7 +554,7 @@
         <item name="actionBarDivider">?dividerVertical</item>
         <item name="actionBarItemBackground">?selectableItemBackgroundBorderless</item>
         <item name="actionMenuTextAppearance">@style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
-        <item name="actionMenuTextColor">?android:textColorPrimaryDisableOnly</item>
+        <item name="actionMenuTextColor">@color/primary_font</item>
         <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
         <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
         <item name="actionModeBackground">@drawable/abc_cab_background_top_material</item>
@@ -586,7 +586,7 @@
         <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar</item>
         <item name="toolbarNavigationButtonStyle">@style/Widget.AppCompat.Toolbar.Button.Navigation</item>
         <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
-        <item name="editTextColor">?android:textColorPrimary</item>
+        <item name="editTextColor">@color/primary_font</item>
         <item name="editTextBackground">@drawable/abc_edit_text_material</item>
         <item name="imageButtonStyle">@style/Widget.AppCompat.ImageButton</item>
         <item name="textAppearanceSearchResultTitle">@style/TextAppearance.AppCompat.SearchResult.Title</item>
@@ -696,7 +696,7 @@
         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
         <item name="android:textSize">12.0sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
         <item name="android:ellipsize">marquee</item>
         <item name="android:maxWidth">180.0dip</item>
         <item name="android:maxLines">2</item>
@@ -1392,7 +1392,7 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="@style/TextAppearance.AppCompat.Display1">
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="TextAppearance.Design.Counter" parent="@style/TextAppearance.AppCompat.Caption" />
     <style name="TextAppearance.Design.Counter.Overflow" parent="@style/TextAppearance.AppCompat.Caption">
@@ -1406,11 +1406,11 @@
     </style>
     <style name="TextAppearance.Design.Snackbar.Message" parent="@android:style/TextAppearance">
         <item name="android:textSize">@dimen/design_snackbar_text_size</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
     </style>
     <style name="TextAppearance.Design.Tab" parent="@style/TextAppearance.AppCompat.Button">
         <item name="android:textSize">@dimen/design_tab_text_size</item>
-        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColor">@color/secondary_font</item>
         <item name="textAllCaps">true</item>
     </style>
     <style name="TextAppearance.StatusBar.EventContent" parent="" />
@@ -1423,14 +1423,14 @@
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title" />
     <style name="TextAppearance.YouTube.Body1" parent="@style/TextAppearance.AppCompat.Body1" />
     <style name="TextAppearance.YouTube.Body1.Inverse" parent="@style/TextAppearance.AppCompat.Body1">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
         <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
         <item name="android:textColorLink">?android:textColorLinkInverse</item>
     </style>
     <style name="TextAppearance.YouTube.Body2" parent="@style/TextAppearance.AppCompat.Body2" />
     <style name="TextAppearance.YouTube.Body2.Inverse" parent="@style/TextAppearance.AppCompat.Body2">
-        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:textColor">@color/text_color_primary_default_dark</item>
         <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
         <item name="android:textColorLink">?android:textColorLinkInverse</item>
@@ -1438,7 +1438,7 @@
     <style name="TextAppearance.YouTube.Button" parent="@style/TextAppearance.AppCompat.Button" />
     <style name="TextAppearance.YouTube.Caption" parent="@style/TextAppearance.AppCompat.Caption" />
     <style name="TextAppearance.YouTube.Caption.Inverse" parent="@style/TextAppearance.AppCompat.Caption">
-        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+        <item name="android:textColor">@color/text_color_secondary_default_dark</item>
         <item name="android:textColorHighlight">?android:textColorHighlightInverse</item>
         <item name="android:textColorHint">?android:textColorHintInverse</item>
         <item name="android:textColorLink">?android:textColorLinkInverse</item>
@@ -1605,7 +1605,13 @@
         <item name="colorPrimary">?backgroundPrimaryInverse</item>
         <item name="colorPrimaryDark">@android:color/black</item>
     </style>
-    <style name="Theme.YouTube.Home" parent="@style/Theme.YouTube.Light.NoActionBar" />
+    <style name="Theme.YouTube.Home" parent="@style/Theme.YouTube.Light.NoActionBar" >
+		<item name="android:textColorPrimary">@color/abc_primary_text_material_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_light</item>
+        <item name="android:textColorSecondary">@color/abc_secondary_text_material_light</item>
+        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_dark</item>
+        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_dark</item>
+	</style>
     <style name="Theme.YouTube.Launcher" parent="@style/Theme.YouTube.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/quantum_launchscreen_youtube</item>
         <item name="colorPrimaryDark">@color/quantum_grey</item>

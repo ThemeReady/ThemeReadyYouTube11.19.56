@@ -230,7 +230,7 @@
 
     sget v3, Lvjq;->o:I
 
-    const v4, 0x106000b
+    const v4, 0x7f0b0014
 
     .line 113
     invoke-virtual {v0, v4}, Landroid/content/res/Resources;->getColor(I)I

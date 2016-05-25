@@ -2,7 +2,7 @@
 <resources>
     <style name="Base.TextAppearance.AppCompat.Button" parent="@style/Base.TextAppearance.AppCompat">
         <item name="android:textSize">@dimen/abc_text_size_button_material</item>
-        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColor">@color/primary_font</item>
         <item name="android:textAllCaps">true</item>
     </style>
     <style name="Platform.AppCompat" parent="@style/Platform.V14.AppCompat" />
