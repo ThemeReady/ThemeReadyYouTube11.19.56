@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merge android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <FrameLayout android:id="@id/pane_fragment_container" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?actionBarSize">
+    <FrameLayout android:id="@id/pane_fragment_container" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="?actionBarSize">
         <com.google.android.apps.youtube.app.ui.inline.InlinePlayerLayout android:id="@id/inline_player_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     </FrameLayout>
     <FrameLayout android:id="@id/fab_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
